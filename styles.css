@@ -1,0 +1,44 @@
+.animal__trading__card
+ {
+    width: 320px;
+    border: 1px solid grey;
+    box-shadow: 10px 10px 1px 0px lightgrey;
+    padding-right: 5px;
+    padding-left: 6px;
+    padding-bottom: 6px;
+  }
+  
+  .animal_information
+  {
+    width: 300px;
+    border: 1px solid grey;
+    padding-right: 5px;
+    padding-left: 6px;
+  }
+  
+ 
+  .animal_Picture
+  {
+    width: 300px;
+    height: 200px;
+    padding-bottom: 6px;
+  }
+  
+  
+  .interesting_fact
+  {
+    font-style: italic;
+  }
+  
+ 
+  .list-info
+  {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  span
+  {
+    font-weight: bold;
+  }
+  
